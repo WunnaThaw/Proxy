@@ -1,0 +1,9 @@
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Proxy\Proxy\bin\Debug\Proxy.exe.config
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Proxy\Proxy\bin\Debug\Proxy.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Proxy\Proxy\bin\Debug\Proxy.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Proxy\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Proxy\Proxy\obj\Debug\Proxy.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Proxy\Proxy\obj\Debug\Proxy.pdb
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Proxy\Proxy\bin\Debug\Proxy.exe.config
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Proxy\Proxy\obj\Debug\Proxy.exe
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Proxy\Proxy\obj\Debug\Proxy.pdb
